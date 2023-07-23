@@ -1,4 +1,4 @@
-<h1 align="center">go-webapp-template</h1>
+<h1 align="center">golang-webapp</h1>
 
 Build:
 
@@ -6,6 +6,6 @@ Build:
 
 Run:
 
-    ./go-webapp-template
+    ./golang-webapp
 
 Go to <a href=" http://localhost:3000"> http://localhost:3000 </a> you should see the text “You made it!” displayed on your screen.
