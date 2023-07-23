@@ -8,4 +8,4 @@ Run:
 
     ./golang-webapp
 
-Go to <a href=" http://localhost:3000"> http://localhost:3000 </a> you should see the text “You made it!” displayed on your screen.
+Go to <a href=" http://localhost:3000"> http://localhost:3000 </a> you should see the text “Homepage” displayed on your screen.
